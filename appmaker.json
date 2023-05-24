@@ -1,0 +1,10 @@
+{
+    "type": "theme",
+    "id": "cli1qup0d005e7d0ivlt5jv1z",
+    "handle": "cosmetic-theme",
+    "name": "Cosmetic theme",
+    "package": {
+        "id": "cli1qupam005g7d0i82j2vtk7",
+        "name": "@appmaker-packages/theme-cosmetic-theme"
+    }
+}

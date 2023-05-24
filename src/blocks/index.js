@@ -1,0 +1,2 @@
+const blocks = [];
+export { blocks };
