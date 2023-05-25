@@ -1,7 +1,7 @@
-import ProductDetailPage from './ProductDetail';
+import ProductListPage from './ProductListPage';
 
 const pages = {
-  productDetail: ProductDetailPage,
+  productList: ProductListPage,
 };
 
 export { pages };
