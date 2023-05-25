@@ -1,0 +1,9 @@
+{
+  "fontFamily": {
+    "extraLight": "Urbanist-ExtraLight",
+    "light": "Urbanist-Light",
+    "regular": "Urbanist-Black",
+    "medium": "Urbanist-Bold",
+    "bold": "Urbanist-ExtraBold"
+  }
+}
